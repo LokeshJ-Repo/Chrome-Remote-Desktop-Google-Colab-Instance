@@ -18,7 +18,7 @@ This script uses chrome remote desktop and xfce desktop environment to provide d
 10. Run the third cell, if you want to mount your gdrive as seperate drive in your instance. 
 
 ### What is the purpose of it?
-1. VM/Instance with more computational power, memory , storage and bandwidth compared to other free cloud instances
+1. VM/Instance with more computational power, memory , storage and bandwidth compared to other free cloud instances.
 2. No need to register and add payments unlike other VM services.
 3. Students can use this to test several projects.
 4. Can be used for visual output of data analytics, machine learning. 
