@@ -25,10 +25,13 @@ This script uses chrome remote desktop and xfce desktop environment to provide d
 
 # Screenshot
 
-![Searching Torrent](https://github.com/lokeshj074/Torrent_Search_Download_Gdrive_LokeshJ/blob/main/Screen_shot1.jpg)
+![Colab_Notebook](https://github.com/LokeshJ-Repo/Chrome-Remote-Desktop-Google-Colab-Instance/blob/main/Images/Notebook.png)
 
-![Downloading Torrent](https://github.com/lokeshj074/Torrent_Search_Download_Gdrive_LokeshJ/blob/main/Screen_shot2.jpg)
+![outh_Code](https://github.com/LokeshJ-Repo/Chrome-Remote-Desktop-Google-Colab-Instance/blob/main/Images/SSH_Outh_Code.png)
 
+![Instance_list](https://github.com/LokeshJ-Repo/Chrome-Remote-Desktop-Google-Colab-Instance/blob/main/Images/Instance_List.png)
+
+![Remote_Desktop](https://github.com/LokeshJ-Repo/Chrome-Remote-Desktop-Google-Colab-Instance/blob/main/Images/Remote_Desktop.png)
 
 
 ### Frequently Asked Questions
